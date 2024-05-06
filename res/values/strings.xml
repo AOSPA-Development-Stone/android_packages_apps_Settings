@@ -357,6 +357,10 @@
     <!-- Description for indication of current system default language. [CHAR LIMIT=50]-->
     <string name="desc_current_default_language">System language</string>
 
+    <!-- maintainer -->
+    <string name="maintainer" translatable="false">Maintainer ( Do not blame for now )</string>
+    <string name="maintainer_name" translatable="false">Unknown</string>
+
     <!-- Menu item in the locale menu. Will remove the selected locales. [CHAR LIMIT=30] -->
     <string name="locale_remove_menu">Remove</string>
 
